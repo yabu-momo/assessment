@@ -1,14 +1,21 @@
-.face {
+body {
+    background-color: #04a6eb;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
 
-    color:darkblue;
+input {
 
-    opacity: 0.5;
+    height: 20px;
 
 }
 
-.back {
+button {
 
-    color:lightgray;
-
-
+    padding: 5px 20px;
+    background-color: #2edf3c;
+    border-color: #728392;
+    border-style: none;
 }
